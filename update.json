@@ -1,6 +1,1 @@
-{
-  "versionCode": 18,
-  "versionName": "1.8",
-  "downloadUrl": "https://github.com/aboudamar500-sudo/RafiqAlMuslim-Releases/releases/download/v1.8/app-release.apk",
-  "notes": "تحسين الشاشة الرئيسية وإعادة إظهار أقسام القرآن والأذكار والأدعية والقبلة والتسبيح والإعدادات."
-}
+{"versionCode":19,"versionName":"1.9","downloadUrl":"https://github.com/aboudamar500-sudo/RafiqAlMuslim-Releases/releases/download/v1.9/app-release.apk","notes":"طلب إذن الموقع عند الحاجة وتحسين عرض مواقيت الصلاة باستخدام التخزين المؤقت."}
