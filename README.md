@@ -1,13 +1,13 @@
-# رفيق المسلم
+# رفيق المسلم | Rafiq AlMuslim
 
-مستودع ملفات تحديثات تطبيق رفيق المسلم لنظام Android.
+المستودع الرسمي لتحديثات تطبيق رفيق المسلم لنظام Android.
 
-## سياسة الخصوصية
+Official Android releases and updates for Rafiq AlMuslim.
 
-[عرض سياسة الخصوصية](https://aboudamar500-sudo.github.io/RafiqAlMuslim-Privacy/)
+## سياسة الخصوصية | Privacy Policy
 
-## التحديثات
+[عرض سياسة الخصوصية — View Privacy Policy](https://aboudamar500-sudo.github.io/RafiqAlMuslim-Privacy/)
 
-ملف معلومات آخر إصدار متاح:
+## ملف التحديثات | Update Information
 
-[update.json](https://raw.githubusercontent.com/aboudamar500-sudo/RafiqAlMuslim-Releases/main/update.json)
+[عرض update.json](https://raw.githubusercontent.com/aboudamar500-sudo/Rafiq-AlMuslim-Releases/main/update.json)
